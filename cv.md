@@ -11,26 +11,28 @@
 
 4. Skills: HTML, CSS, Objective-C.
 
-5. 
-`<nav>`
-  `<div class="menu">`
-    `<div class="div_nav">`
-      `<a href="" role="button" class="a_nav">Gmail</a>`
-    `</div>`
-    `<div class="div_nav">`
-      `<a href="" role="button" class="a_nav">Images</a>`
-    `</div>`
-    `<div class="div_nav">`
-      `<a href="" title="Google apps" role="button" class="a_nav a_apps"></a>`
-    `</div>`
-    `<div class="div_nav">`
-      `<a href="" title="0 Google notifications" role="button" class="a_nav bell"></a>`
-    `</div>`
-    `<div class="div_nav">`
-      `<a href="" title="Google Account: Alexander Kononok (alex.kononok@gmail.com)" role="button" class="a_nav user_img"></a>`
-    `</div>`
-  `</div>`
-`</nav>`
+5. The navigation menu for google page in my project:
+```
+<nav>
+  <div class="menu">
+    <div class="div_nav">
+      <a href="" role="button" class="a_nav">Gmail</a>
+    </div>
+    <div class="div_nav">
+      <a href="" role="button" class="a_nav">Images</a>
+    </div>
+    <div class="div_nav">
+      <a href="" title="Google apps" role="button" class="a_nav a_apps"></a>
+    </div>
+    <div class="div_nav">
+      <a href="" title="0 Google notifications" role="button" class="a_nav bell"></a>
+    </div>
+    <div class="div_nav">
+      <a href="" title="Google Account: Alexander Kononok (alex.kononok@gmail.com)" role="button" class="a_nav user_img"></a>
+    </div>
+  </div>
+</nav>
+```
 
 6. The task for internship javascript developer. Develop web-page like google searching. My  [project](https://github.com/AlexanderKononok/AlexanderKononok.github.io) on the GitHub and page with the [result](https://alexanderkononok.github.io/).
 
