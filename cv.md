@@ -11,7 +11,7 @@
 
 4. Skills: HTML, CSS, Objective-C.
 
-5. ```HTML
+5. ```
 <nav>
   <div class="menu">
     <div class="div_nav">
