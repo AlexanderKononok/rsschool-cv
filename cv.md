@@ -35,9 +35,9 @@
 
 6. The task for internship javascript developer. Develop web-page like google searching. My  [project](https://github.com/AlexanderKononok/AlexanderKononok.github.io) on the GitHub and page with the [result](https://alexanderkononok.github.io/).
 
-7. *BSU university
-    *[codecademy](https://www.codecademy.com/learn/learn-html) Introduction to HTML
-    *[codecademy](https://www.codecademy.com/learn/learn-css) Learn CSS
-    *book: Programming for ios 7 Matt Newberg
+7. * BSU university
+    * [codecademy](https://www.codecademy.com/learn/learn-html) Introduction to HTML
+    * [codecademy](https://www.codecademy.com/learn/learn-css) Learn CSS
+    * book: Programming for ios 7 Matt Newberg
 
 8. English A-1.
