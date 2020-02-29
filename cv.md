@@ -12,9 +12,9 @@
 4. Skills: HTML, CSS, Objective-C.
 
 5. 
-```html
+```
 <nav>
- <div class="menu">
+  <div class="menu">
     <div class="div_nav">
       <a href="" role="button" class="a_nav">Gmail</a>
     </div>
